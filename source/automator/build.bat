@@ -1,0 +1,1 @@
+pyinstaller --onefile automator.py --clean --specpath ./AutomatorSource --name PrometheusAutomator --distpath ./Release --workpath ./AutomatorSource --hidden-import enquiries
